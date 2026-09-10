@@ -1,6 +1,6 @@
 # My Website
 
-this is my personal website
+This is my personal website
 
 ## Projects
 Here is my [link]
@@ -9,3 +9,4 @@ Here is my [link]
 - first item
 - second item
 
+![my_image](IMG_9642.JPG)
